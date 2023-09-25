@@ -7,7 +7,7 @@ The folder `pocs` contains PoCs for the different system registers that showed l
 
 ## RegCheck
 The folder `regcheck` contains the code of our analysis tool.
-The tool checks whether a given system is vulnerable to Meltdown 3a and which system registers it leaks. (TODO: cleanup code)
+The tool checks whether a given system is vulnerable to Meltdown 3a and which system registers it leaks.
 
 ## Case Studies
 
