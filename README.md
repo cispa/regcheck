@@ -11,6 +11,9 @@ The tool checks whether a given system is vulnerable to Meltdown 3a and which sy
 
 ## Case Studies
 
+### Spectre with CounterLeak Bypass
+The folder `spectre-counterleak` contains the code for the Spectre V1 attack using CounterLeak.
+
 ### Zigzagger Bypass
 The folder `zigzagger-bypass` contains the code for the Zigzagger case study.
 
