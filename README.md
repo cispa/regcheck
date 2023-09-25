@@ -11,7 +11,10 @@ The tool checks whether a given system is vulnerable to Meltdown 3a and which sy
 
 ## Case Studies
 
-### Spectre with CounterLeak Bypass
+### KASLR Break with CounterLeak
+The folder `kaslr-break` contains the code for the KASLR break using CounterLeak.
+
+### Spectre with CounterLeak
 The folder `spectre-counterleak` contains the code for the Spectre V1 attack using CounterLeak.
 
 ### Zigzagger Bypass

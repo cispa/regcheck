@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.tikz": "latex",
+        "cacheutils.h": "c"
+    }
+}
